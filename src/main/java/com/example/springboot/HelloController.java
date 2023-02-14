@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Greetings from Spring Boot + Tanzu! BHEEM Changes updated <a href='taznu.vmware.com'>click here</a>'";
+		return "Greetings from Spring Boot + Tanzu! BHEEM Changes updated <a href='http://taznu.vmware.com'>click here</a>' ADDED NEW THINGS";
 	}
 
 }
