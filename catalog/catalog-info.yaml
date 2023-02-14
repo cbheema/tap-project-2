@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: tanzu-java-web-app-bheem
-  description: Tanzu Java Web App version 1 hyperlink
+  description: Tanzu Java Web App version 1 hyperlink added changes 2
   tags:
     - app-accelerator
     - java
